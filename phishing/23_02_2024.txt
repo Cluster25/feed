@@ -1,0 +1,9 @@
+# Agenzia delle Entrate-themed Phishing #
+
+DOMAIN-DST  : exvkokkkqsagenziariscossioneufficioservizi[.]mkgss[.]com
+PROXY-DST   : https[:]//exvkokkkqsagenziariscossioneufficioservizi[.]mkgss[.]com/Servizi-Agenzia/area-riservata/portale/ret_url/b6e1f534f984abb89c3a44b97f0e04e2/login.php
+PROXY-DST   : https[:]//exvkokkkqsagenziariscossioneufficioservizi[.]mkgss[.]com/Servizi-Agenzia/area-riservata/portale/
+PROXY-DST   : https[:]//exvkokkkqsagenziariscossioneufficioservizi[.]mkgss[.]com/Servizi-Agenzia/
+EMAIL-SRC   : enquiries[@]satbachang[.]com
+
+# Agenzia delle entrate-themed phishing #
